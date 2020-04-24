@@ -47,5 +47,9 @@
               layoutResId="@xml/halmak" id="546b29d0-2563-11e9-b56e-0800200c9a66"
               description="@string/halmak_keyboard_description"
               index="10"/>
+    <Keyboard nameResId="@string/colemak_dh1_keyboard" iconResId="@drawable/ic_status_english"
+              layoutResId="@xml/colemak_mod_dh_rev1" id="4cd25b75-99c3-4cfb-be7a-ee45b312c837"
+              defaultDictionaryLocale="en" description="@string/colemak_dh1_keyboard_description"
+              index="11"/>
 
 </Keyboards>
