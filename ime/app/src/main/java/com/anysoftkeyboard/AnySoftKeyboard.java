@@ -444,9 +444,6 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardColorizeNavBar {
                     sendDownUpKeyEvents(keyEventKeyCode);
                 }
                 break;
-            case KeyCodes.SPACE:
-                sendDownUpKeyEvents(KeyEvent.KEYCODE_SPACE);
-                break;
             case KeyCodes.ARROW_UP:
                 sendDownUpKeyEvents(KeyEvent.KEYCODE_DPAD_UP);
                 break;
